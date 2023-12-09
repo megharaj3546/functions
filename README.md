@@ -57,10 +57,6 @@ This repository contains a Solidity smart contract for a token named "Premium To
 - Burn your own tokens using the `burn` function.
 - Transfer tokens to other addresses using the `transfer` function.
 
-## Security Considerations
-
-- Ensure that the deployer's private key is kept secure to prevent unauthorized access.
-- Carefully review and test the smart contract in a development environment before deploying it to a live network.
 
 ## Author
 
